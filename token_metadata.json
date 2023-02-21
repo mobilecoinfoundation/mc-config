@@ -1,0 +1,27 @@
+{
+    "schema_version": 1,
+    "signing_timestamp": "1670377814",
+    "metadata": [
+        {
+            "token_id": "0",
+            "currency_name": "MobileCoin",
+            "short_code": "MOB",
+            "decimals": 12,
+            "suggested_precision": 4,
+            "logo_svg_url": "https://mobilecoin.foundation/mob-logo.svg",
+            "logo_svg_blake2b_digest": "044F4A75DC1147629",
+            "info_url": "https://mobilecoin.foundation"
+        },
+        {
+            "token_id": "1",
+            "currency_name": "Electronic Dollar",
+            "short_code": "eUSD",
+            "symbol": "$",
+            "decimals": 6,
+            "suggested_precision": 2,
+            "logo_svg_url": "https://www.mobilecoin.com/eusd-logo.svg",
+            "logo_svg_blake2b_digest": "0123FFFAB12344567",
+            "info_url": "https://mobilecoin.com/blog/mobilecoin-launches-eusd"
+        }
+    ]
+}
